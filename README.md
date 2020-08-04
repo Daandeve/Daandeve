@@ -1,9 +1,9 @@
 ### Hi there, I'm Daan - aka [Daandeve][website] 👋
 
-- 🔭 I’m currently working on a world changing project
+- 🔭 I’m currently working on a top secret🤫, world changing project
 - 🌱 I’m currently learning node.js
 - 🥅 2020 Goal: Finish my planned projects
-- 💬 Ask me about anything
+- 💬 You can ask me anything
 
 ### Connect with me:
 
