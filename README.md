@@ -1,7 +1,7 @@
 ### Hi there, I'm Daan - aka [Daandeve][website] 👋
 
-- 🔭 I’m currently working on a top secret🤫, world changing project
-- 🌱 I’m currently learning node.js
+- 🔭 I’m currently working on a Password manager
+- 🌱 I’m currently learning Dart
 - 🥅 2020 Goal: Finish my planned projects
 - 💬 You can ask me anything
 
