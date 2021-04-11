@@ -1,8 +1,8 @@
 ### Hi there, I'm Daan - aka [Daandeve][website] 👋
 
-- 🔭 I’m currently working on a Password manager
+- 🔭 I’m currently working on a bunch of things
 - 🌱 I’m currently learning Dart
-- 🥅 2020 Goal: Finish my planned projects
+- 🥅 2021 Goal: Finish company startup
 - 💬 You can ask me anything
 
 ### Connect with me:
