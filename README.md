@@ -1,9 +1,9 @@
 ### Hi there, I'm Daan - aka [Daandeve][website] 👋
 
-- 🔭 I’m currently working on a bunch of things
-- 🌱 I’m currently learning Dart
-- 🥅 2021 Goal: Finish company startup
-- 💬 You can ask me anything
+🛠   Currently Exploring new technologies and developing innovative software
+🌱  I’m learning Dart & Ruby
+💬  Feel free to contact me for a chat
+🏁  My 2021 goal: Finish Devife's social base
 
 ### Connect with me:
 
