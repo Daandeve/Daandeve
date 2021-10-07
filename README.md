@@ -61,7 +61,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.daandeve.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark)](https://github.com/Daandeve/github-readme-stats)
+[![Top Langs](https://github-readme-stats.daandeve.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark&hide_border=true&count_private=true)](https://github.com/Daandeve/github-readme-stats)
 
 ---
 
