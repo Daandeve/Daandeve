@@ -61,14 +61,14 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.daandeve.vercel.app/api?username=Daandeve&count_private=true&show_icons=true&hide_border=true&theme=dark" />
+[![Top Langs](https://github-readme-stats.daandeve.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark)](https://github.com/Daandeve/github-readme-stats)
 
 <br />
 <br />
 
 ---
 
-[![Top Langs](https://github-readme-stats.daandeve.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark)](https://github.com/Daandeve/github-readme-stats)
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.daandeve.vercel.app/api?username=Daandeve&count_private=true&show_icons=true&hide_border=true&theme=dark" />
 
 [website]: https://daankemper.nl
 [twitter]: https://twitter.com/daankemper
