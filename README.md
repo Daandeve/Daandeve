@@ -119,8 +119,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.daandeve.vercel.app/api?username=Daandeve&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.daandeve.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-daandeves-projects.vercel.app/api?username=Daandeve&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-daandeves-projects.vercel.app/api/top-langs/?username=Daandeve&layout=compact&theme=dark&hide_border=true&count_private=true&exclude_repo=home-assistant-config,localtuya" height="165" />
 </p>
 
 ---
